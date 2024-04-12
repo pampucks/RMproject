@@ -11,15 +11,11 @@ Frontend/node_modules
 api/node_modules
 Frontend/dist
 Frontend/dist-ssr
-*.local
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+api/node_modules
+api/.env
+api/log
+api/assets
+Frontend/node_modules
+Frontend/.env
+**/.env
